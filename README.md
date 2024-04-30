@@ -1,9 +1,11 @@
 # haskell-mooc-answer
 
+My answer for [Haskell Mooc](https://haskell.mooc.fi/)
+
 - [Exercise Set 1](./Set1.hs)
-    - Defining Functions
-    - Basic Expressions
-    - Pattern Matching
+    - Defining functions
+    - Basic expressions
+    - Pattern matching
     - Recursion
 - [Exercise Set 2 a](./Set2a.hs)
     - Guards
@@ -13,21 +15,21 @@
 - [Exercise Set 2 b](./Set2b.hs)
 - [Exercise Set 3 a](./Set3a.hs)
     - Lists
-    - Functional Programming
+    - Functional programming
 - [Exercise Set 3 b](./Set3b.hs)
     - Implementing list functions using recursion and pattern matching
 - [Exercise Set 4 a](./Set4a.hs)
-    - using type classes
-    - working with lists
+    - Using type classes
+    - Working with lists
 - [Exercise Set 4 b](./Set4b.hs)
-    - folds
+    - Folds
 - [Exercise Set 5 a](./Set5a.hs)
-    - defining algebraic datatypes
-    - recursive datatypes
+    - Defining algebraic datatypes
+    - Recursive datatypes
 - [Exercise Set 5 b](./Set5b.hs)
-    - playing with binary trees
+    - Playing with binary trees
 - [Exercise Set 6](./Set6.hs)
-    - defining classes and instances
+    - Defining classes and instances
 - [Exercise Set 7](./Set7.hs)
 - [Exercise Set 8](./Set8.hs)
-    - final project for part 1
+    - Final project for part 1
